@@ -464,6 +464,7 @@ textarea {
     }
     .container-section-one {
         padding: 50px;
+        text-align: center;
     }
     .container-section-one h1 {
         font-size: 42px
