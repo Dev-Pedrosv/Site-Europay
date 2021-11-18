@@ -476,8 +476,13 @@ textarea {
         justify-content: center
     }
     .container-section-two-left {
+        align-items: center;
+        justify-content: center;
         text-align: center;
         padding: 50px 28px;
+    }
+    .info-section-two {
+        width: 80%
     }
     .container-section-two-right {
         padding: 50px 31px;
