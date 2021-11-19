@@ -198,6 +198,7 @@ a {
     margin-bottom: 20px;
     background-color: #fff;
     transition: 0.3s;
+    align-items: center;
 }
 
 .cards i {
